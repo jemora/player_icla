@@ -1,0 +1,22 @@
+
+{
+  "name": "Radio ICLA Templo Belén",
+  "short_name": "Radio ICLA Templo Belén",
+  "description": "Juntos - Radio ICLA Templo Belén en vivo",
+  "start_url": "./radio_icla_templo_belen_lazy_sin_botones_visibles_abajo.html",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#0d47a1",
+  "icons": [
+    {
+      "src": "https://i.postimg.cc/V6S0tzXD/ocla-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://i.postimg.cc/50ZYqD31/icla-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
